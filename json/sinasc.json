@@ -1,0 +1,377 @@
+[
+  {
+    "codIBGE": 280010,
+    "municipio": "Amparo do São Francisco",
+    "nascimentos": 103
+  },
+  {
+    "codIBGE": 280020,
+    "municipio": "Aquidabã",
+    "nascimentos": 731
+  },
+  {
+    "codIBGE": 280030,
+    "municipio": "Aracaju",
+    "nascimentos": 23067
+  },
+  {
+    "codIBGE": 280040,
+    "municipio": "Arauá",
+    "nascimentos": 402
+  },
+  {
+    "codIBGE": 280050,
+    "municipio": "Areia Branca",
+    "nascimentos": 722
+  },
+  {
+    "codIBGE": 280060,
+    "municipio": "Barra dos Coqueiros",
+    "nascimentos": 1675
+  },
+  {
+    "codIBGE": 280067,
+    "municipio": "Boquim",
+    "nascimentos": 862
+  },
+  {
+    "codIBGE": 280070,
+    "municipio": "Brejo Grande",
+    "nascimentos": 423
+  },
+  {
+    "codIBGE": 280100,
+    "municipio": "Campo do Brito",
+    "nascimentos": 659
+  },
+  {
+    "codIBGE": 280110,
+    "municipio": "Canhoba",
+    "nascimentos": 196
+  },
+  {
+    "codIBGE": 280120,
+    "municipio": "Canindé de São Francisco",
+    "nascimentos": 1535
+  },
+  {
+    "codIBGE": 280130,
+    "municipio": "Capela",
+    "nascimentos": 1535
+  },
+  {
+    "codIBGE": 280140,
+    "municipio": "Carira",
+    "nascimentos": 819
+  },
+  {
+    "codIBGE": 280150,
+    "municipio": "Carmópolis",
+    "nascimentos": 583
+  },
+  {
+    "codIBGE": 280160,
+    "municipio": "Cedro de São João",
+    "nascimentos": 171
+  },
+  {
+    "codIBGE": 280170,
+    "municipio": "Cristinápolis",
+    "nascimentos": 789
+  },
+  {
+    "codIBGE": 280190,
+    "municipio": "Cumbe",
+    "nascimentos": 113
+  },
+  {
+    "codIBGE": 280200,
+    "municipio": "Divina Pastora",
+    "nascimentos": 208
+  },
+  {
+    "codIBGE": 280210,
+    "municipio": "Estância",
+    "nascimentos": 3014
+  },
+  {
+    "codIBGE": 280220,
+    "municipio": "Feira Nova",
+    "nascimentos": 277
+  },
+  {
+    "codIBGE": 280230,
+    "municipio": "Frei Paulo",
+    "nascimentos": 651
+  },
+  {
+    "codIBGE": 280240,
+    "municipio": "Gararu",
+    "nascimentos": 390
+  },
+  {
+    "codIBGE": 280250,
+    "municipio": "General Maynard",
+    "nascimentos": 107
+  },
+  {
+    "codIBGE": 280260,
+    "municipio": "Gracho Cardoso",
+    "nascimentos": 218
+  },
+  {
+    "codIBGE": 280270,
+    "municipio": "Ilha das Flores",
+    "nascimentos": 409
+  },
+  {
+    "codIBGE": 280280,
+    "municipio": "Indiaroba",
+    "nascimentos": 777
+  },
+  {
+    "codIBGE": 280290,
+    "municipio": "Itabaiana",
+    "nascimentos": 4088
+  },
+  {
+    "codIBGE": 280300,
+    "municipio": "Itabaianinha",
+    "nascimentos": 1648
+  },
+  {
+    "codIBGE": 280310,
+    "municipio": "Itabi",
+    "nascimentos": 165
+  },
+  {
+    "codIBGE": 280320,
+    "municipio": "Itaporanga d'Ajuda",
+    "nascimentos": 1503
+  },
+  {
+    "codIBGE": 280330,
+    "municipio": "Japaratuba",
+    "nascimentos": 625
+  },
+  {
+    "codIBGE": 280340,
+    "municipio": "Japoatã",
+    "nascimentos": 608
+  },
+  {
+    "codIBGE": 280350,
+    "municipio": "Lagarto",
+    "nascimentos": 4105
+  },
+  {
+    "codIBGE": 280360,
+    "municipio": "Laranjeiras",
+    "nascimentos": 1143
+  },
+  {
+    "codIBGE": 280370,
+    "municipio": "Macambira",
+    "nascimentos": 255
+  },
+  {
+    "codIBGE": 280380,
+    "municipio": "Malhada dos Bois",
+    "nascimentos": 169
+  },
+  {
+    "codIBGE": 280390,
+    "municipio": "Malhador",
+    "nascimentos": 458
+  },
+  {
+    "codIBGE": 280400,
+    "municipio": "Maruim",
+    "nascimentos": 711
+  },
+  {
+    "codIBGE": 280410,
+    "municipio": "Moita Bonita",
+    "nascimentos": 370
+  },
+  {
+    "codIBGE": 280420,
+    "municipio": "Monte Alegre de Sergipe",
+    "nascimentos": 722
+  },
+  {
+    "codIBGE": 280430,
+    "municipio": "Muribeca",
+    "nascimentos": 322
+  },
+  {
+    "codIBGE": 280440,
+    "municipio": "Neópolis",
+    "nascimentos": 685
+  },
+  {
+    "codIBGE": 280445,
+    "municipio": "Nossa Senhora Aparecida",
+    "nascimentos": 324
+  },
+  {
+    "codIBGE": 280450,
+    "municipio": "Nossa Senhora da Glória",
+    "nascimentos": 1874
+  },
+  {
+    "codIBGE": 280460,
+    "municipio": "Nossa Senhora das Dores",
+    "nascimentos": 998
+  },
+  {
+    "codIBGE": 280470,
+    "municipio": "Nossa Senhora de Lourdes",
+    "nascimentos": 240
+  },
+  {
+    "codIBGE": 280480,
+    "municipio": "Nossa Senhora do Socorro",
+    "nascimentos": 8391
+  },
+  {
+    "codIBGE": 280490,
+    "municipio": "Pacatuba",
+    "nascimentos": 615
+  },
+  {
+    "codIBGE": 280500,
+    "municipio": "Pedra Mole",
+    "nascimentos": 133
+  },
+  {
+    "codIBGE": 280510,
+    "municipio": "Pedrinhas",
+    "nascimentos": 327
+  },
+  {
+    "codIBGE": 280520,
+    "municipio": "Pinhão",
+    "nascimentos": 226
+  },
+  {
+    "codIBGE": 280530,
+    "municipio": "Pirambu",
+    "nascimentos": 392
+  },
+  {
+    "codIBGE": 280540,
+    "municipio": "Poço Redondo",
+    "nascimentos": 1454
+  },
+  {
+    "codIBGE": 280550,
+    "municipio": "Poço Verde",
+    "nascimentos": 777
+  },
+  {
+    "codIBGE": 280560,
+    "municipio": "Porto da Folha",
+    "nascimentos": 1231
+  },
+  {
+    "codIBGE": 280570,
+    "municipio": "Propriá",
+    "nascimentos": 1163
+  },
+  {
+    "codIBGE": 280580,
+    "municipio": "Riachão do Dantas",
+    "nascimentos": 692
+  },
+  {
+    "codIBGE": 280590,
+    "municipio": "Riachuelo",
+    "nascimentos": 393
+  },
+  {
+    "codIBGE": 280600,
+    "municipio": "Ribeirópolis",
+    "nascimentos": 516
+  },
+  {
+    "codIBGE": 280610,
+    "municipio": "Rosário do Catete",
+    "nascimentos": 437
+  },
+  {
+    "codIBGE": 280620,
+    "municipio": "Salgado",
+    "nascimentos": 698
+  },
+  {
+    "codIBGE": 280630,
+    "municipio": "Santa Luzia do Itanhy",
+    "nascimentos": 615
+  },
+  {
+    "codIBGE": 280650,
+    "municipio": "Santa Rosa de Lima",
+    "nascimentos": 177
+  },
+  {
+    "codIBGE": 280640,
+    "municipio": "Santana do São Francisco",
+    "nascimentos": 331
+  },
+  {
+    "codIBGE": 280660,
+    "municipio": "Santo Amaro das Brotas",
+    "nascimentos": 420
+  },
+  {
+    "codIBGE": 280670,
+    "municipio": "São Cristóvão",
+    "nascimentos": 3510
+  },
+  {
+    "codIBGE": 280680,
+    "municipio": "São Domingos",
+    "nascimentos": 365
+  },
+  {
+    "codIBGE": 280690,
+    "municipio": "São Francisco",
+    "nascimentos": 128
+  },
+  {
+    "codIBGE": 280700,
+    "municipio": "São Miguel do Aleixo",
+    "nascimentos": 117
+  },
+  {
+    "codIBGE": 280710,
+    "municipio": "Simão Dias",
+    "nascimentos": 1827
+  },
+  {
+    "codIBGE": 280720,
+    "municipio": "Siriri",
+    "nascimentos": 313
+  },
+  {
+    "codIBGE": 280730,
+    "municipio": "Telha",
+    "nascimentos": 128
+  },
+  {
+    "codIBGE": 280740,
+    "municipio": "Tobias Barreto",
+    "nascimentos": 1960
+  },
+  {
+    "codIBGE": 280750,
+    "municipio": "Tomar do Geru",
+    "nascimentos": 482
+  },
+  {
+    "codIBGE": 280760,
+    "municipio": "Umbaúba",
+    "nascimentos": 1140
+  }
+]

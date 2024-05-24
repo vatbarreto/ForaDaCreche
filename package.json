@@ -1,0 +1,27 @@
+{
+  "name": "birthcount",
+  "version": "1.0.0",
+  "description": "Retrieves Sergipe cities birth data ",
+  "main": "report.js",
+  "scripts": {
+    "test": "node report.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tce-sergipe/birthcount.git"
+  },
+  "keywords": [
+    "nascidos",
+    "vivos",
+    "sergipe"
+  ],
+  "author": "Vinícius Barreto",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tce-sergipe/birthcount/issues"
+  },
+  "homepage": "https://github.com/tce-sergipe/birthcount#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}

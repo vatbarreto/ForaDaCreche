@@ -1,0 +1,294 @@
+[
+  {
+    "municipio": "Aquidabã",
+    "nascimentos": 696
+  },
+  {
+    "municipio": "Aracaju",
+    "nascimentos": 30154
+  },
+  {
+    "municipio": "Arauá",
+    "nascimentos": 592
+  },
+  {
+    "municipio": "Areia Branca",
+    "nascimentos": 312
+  },
+  {
+    "municipio": "Barra dos Coqueiros",
+    "nascimentos": 1183
+  },
+  {
+    "municipio": "Boquim",
+    "nascimentos": 887
+  },
+  {
+    "municipio": "Brejo Grande",
+    "nascimentos": 249
+  },
+  {
+    "municipio": "Campo do Brito",
+    "nascimentos": 677
+  },
+  {
+    "municipio": "Canhoba",
+    "nascimentos": 206
+  },
+  {
+    "municipio": "Canindé de São Francisco",
+    "nascimentos": 1647
+  },
+  {
+    "municipio": "Capela",
+    "nascimentos": 1502
+  },
+  {
+    "municipio": "Carira",
+    "nascimentos": 601
+  },
+  {
+    "municipio": "Carmopolis",
+    "nascimentos": 628
+  },
+  {
+    "municipio": "Cedro de São João",
+    "nascimentos": 392
+  },
+  {
+    "municipio": "Cristinápolis",
+    "nascimentos": 833
+  },
+  {
+    "municipio": "Cumbe",
+    "nascimentos": 58
+  },
+  {
+    "municipio": "Divina Pastora",
+    "nascimentos": 124
+  },
+  {
+    "municipio": "Estância",
+    "nascimentos": 3299
+  },
+  {
+    "municipio": "Feira Nova",
+    "nascimentos": 155
+  },
+  {
+    "municipio": "Frei Paulo",
+    "nascimentos": 633
+  },
+  {
+    "municipio": "Gararu",
+    "nascimentos": 549
+  },
+  {
+    "municipio": "General Maynard",
+    "nascimentos": 100
+  },
+  {
+    "municipio": "Graccho Cardoso",
+    "nascimentos": 227
+  },
+  {
+    "municipio": "Ilha das Flores",
+    "nascimentos": 45
+  },
+  {
+    "municipio": "Indiaroba",
+    "nascimentos": 1042
+  },
+  {
+    "municipio": "Itabaiana",
+    "nascimentos": 4224
+  },
+  {
+    "municipio": "Itabaianinha",
+    "nascimentos": 1676
+  },
+  {
+    "municipio": "Itabi",
+    "nascimentos": 170
+  },
+  {
+    "municipio": "Itaporanga D'ajuda",
+    "nascimentos": 1417
+  },
+  {
+    "municipio": "Japaratuba",
+    "nascimentos": 574
+  },
+  {
+    "municipio": "Japoatã",
+    "nascimentos": 630
+  },
+  {
+    "municipio": "Lagarto",
+    "nascimentos": 4199
+  },
+  {
+    "municipio": "Laranjeiras",
+    "nascimentos": 1493
+  },
+  {
+    "municipio": "Macambira",
+    "nascimentos": 259
+  },
+  {
+    "municipio": "Malhada dos Bois",
+    "nascimentos": 164
+  },
+  {
+    "municipio": "Malhador",
+    "nascimentos": 655
+  },
+  {
+    "municipio": "Maruim",
+    "nascimentos": 1211
+  },
+  {
+    "municipio": "Moita Bonita",
+    "nascimentos": 372
+  },
+  {
+    "municipio": "Monte Alegre de Sergipe",
+    "nascimentos": 733
+  },
+  {
+    "municipio": "Muribeca",
+    "nascimentos": 176
+  },
+  {
+    "municipio": "Neópolis",
+    "nascimentos": 937
+  },
+  {
+    "municipio": "Nossa Senhora Aparecida",
+    "nascimentos": 326
+  },
+  {
+    "municipio": "Nossa Senhora da Glória",
+    "nascimentos": 2026
+  },
+  {
+    "municipio": "Nossa Senhora das Dores",
+    "nascimentos": 1254
+  },
+  {
+    "municipio": "Nossa Senhora de Lourdes",
+    "nascimentos": 120
+  },
+  {
+    "municipio": "Nossa Senhora do Socorro",
+    "nascimentos": 4884
+  },
+  {
+    "municipio": "Pacatuba",
+    "nascimentos": 1041
+  },
+  {
+    "municipio": "Pedra Mole",
+    "nascimentos": 139
+  },
+  {
+    "municipio": "Pedrinhas",
+    "nascimentos": 193
+  },
+  {
+    "municipio": "Pinhão",
+    "nascimentos": 225
+  },
+  {
+    "municipio": "Pirambu",
+    "nascimentos": 376
+  },
+  {
+    "municipio": "Porto da Folha",
+    "nascimentos": 1257
+  },
+  {
+    "municipio": "Poço Redondo",
+    "nascimentos": 1508
+  },
+  {
+    "municipio": "Poço Verde",
+    "nascimentos": 715
+  },
+  {
+    "municipio": "Propriá",
+    "nascimentos": 1279
+  },
+  {
+    "municipio": "Riachuelo",
+    "nascimentos": 451
+  },
+  {
+    "municipio": "Riachão do Dantas",
+    "nascimentos": 651
+  },
+  {
+    "municipio": "Ribeirópolis",
+    "nascimentos": 523
+  },
+  {
+    "municipio": "Rosario do Catete",
+    "nascimentos": 447
+  },
+  {
+    "municipio": "Salgado",
+    "nascimentos": 715
+  },
+  {
+    "municipio": "Santa Luzia do Itanhy",
+    "nascimentos": 289
+  },
+  {
+    "municipio": "Santa Rosa de Lima",
+    "nascimentos": 169
+  },
+  {
+    "municipio": "Santana do São Francisco",
+    "nascimentos": 157
+  },
+  {
+    "municipio": "Santo Amaro das Brotas",
+    "nascimentos": 234
+  },
+  {
+    "municipio": "Simão Dias",
+    "nascimentos": 1737
+  },
+  {
+    "municipio": "Siriri",
+    "nascimentos": 149
+  },
+  {
+    "municipio": "São Cristóvão",
+    "nascimentos": 2250
+  },
+  {
+    "municipio": "São Domingos",
+    "nascimentos": 369
+  },
+  {
+    "municipio": "São Miguel do Aleixo",
+    "nascimentos": 118
+  },
+  {
+    "municipio": "Telha",
+    "nascimentos": 93
+  },
+  {
+    "municipio": "Tobias Barreto",
+    "nascimentos": 1999
+  },
+  {
+    "municipio": "Tomar do Geru",
+    "nascimentos": 446
+  },
+  {
+    "municipio": "Umbaúba",
+    "nascimentos": 1141
+  }
+]

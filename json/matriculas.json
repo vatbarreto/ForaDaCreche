@@ -1,0 +1,452 @@
+[
+  {
+    "codIBGE": 2800100,
+    "municipio": "Amparo do São Francisco",
+    "redePublica": 82,
+    "redePrivada": 0
+  },
+  {
+    "codIBGE": 2800209,
+    "municipio": "Aquidabã",
+    "redePublica": 416,
+    "redePrivada": 33
+  },
+  {
+    "codIBGE": 2800308,
+    "municipio": "Aracaju",
+    "redePublica": 3044,
+    "redePrivada": 3264
+  },
+  {
+    "codIBGE": 2800407,
+    "municipio": "Arauá",
+    "redePublica": 275,
+    "redePrivada": 18
+  },
+  {
+    "codIBGE": 2800506,
+    "municipio": "Areia Branca",
+    "redePublica": 361,
+    "redePrivada": 47
+  },
+  {
+    "codIBGE": 2800605,
+    "municipio": "Barra dos Coqueiros",
+    "redePublica": 337,
+    "redePrivada": 209
+  },
+  {
+    "codIBGE": 2800670,
+    "municipio": "Boquim",
+    "redePublica": 325,
+    "redePrivada": 102
+  },
+  {
+    "codIBGE": 2800704,
+    "municipio": "Brejo Grande",
+    "redePublica": 135,
+    "redePrivada": 0
+  },
+  {
+    "codIBGE": 2801009,
+    "municipio": "Campo do Brito",
+    "redePublica": 449,
+    "redePrivada": 87
+  },
+  {
+    "codIBGE": 2801108,
+    "municipio": "Canhoba",
+    "redePublica": 94,
+    "redePrivada": 0
+  },
+  {
+    "codIBGE": 2801207,
+    "municipio": "Canindé de São Francisco",
+    "redePublica": 445,
+    "redePrivada": 79
+  },
+  {
+    "codIBGE": 2801306,
+    "municipio": "Capela",
+    "redePublica": 604,
+    "redePrivada": 117
+  },
+  {
+    "codIBGE": 2801405,
+    "municipio": "Carira",
+    "redePublica": 354,
+    "redePrivada": 57
+  },
+  {
+    "codIBGE": 2801504,
+    "municipio": "Carmópolis",
+    "redePublica": 348,
+    "redePrivada": 36
+  },
+  {
+    "codIBGE": 2801603,
+    "municipio": "Cedro de São João",
+    "redePublica": 96,
+    "redePrivada": 27
+  },
+  {
+    "codIBGE": 2801702,
+    "municipio": "Cristinápolis",
+    "redePublica": 486,
+    "redePrivada": 89
+  },
+  {
+    "codIBGE": 2801900,
+    "municipio": "Cumbe",
+    "redePublica": 47,
+    "redePrivada": 25
+  },
+  {
+    "codIBGE": 2802007,
+    "municipio": "Divina Pastora",
+    "redePublica": 148,
+    "redePrivada": 0
+  },
+  {
+    "codIBGE": 2802106,
+    "municipio": "Estância",
+    "redePublica": 974,
+    "redePrivada": 161
+  },
+  {
+    "codIBGE": 2802205,
+    "municipio": "Feira Nova",
+    "redePublica": 0,
+    "redePrivada": 0
+  },
+  {
+    "codIBGE": 2802304,
+    "municipio": "Frei Paulo",
+    "redePublica": 279,
+    "redePrivada": 35
+  },
+  {
+    "codIBGE": 2802403,
+    "municipio": "Gararu",
+    "redePublica": 92,
+    "redePrivada": 0
+  },
+  {
+    "codIBGE": 2802502,
+    "municipio": "General Maynard",
+    "redePublica": 52,
+    "redePrivada": 13
+  },
+  {
+    "codIBGE": 2802601,
+    "municipio": "Gracho Cardoso",
+    "redePublica": 81,
+    "redePrivada": 0
+  },
+  {
+    "codIBGE": 2802700,
+    "municipio": "Ilha das Flores",
+    "redePublica": 133,
+    "redePrivada": 0
+  },
+  {
+    "codIBGE": 2802809,
+    "municipio": "Indiaroba",
+    "redePublica": 401,
+    "redePrivada": 27
+  },
+  {
+    "codIBGE": 2802908,
+    "municipio": "Itabaiana",
+    "redePublica": 1223,
+    "redePrivada": 463
+  },
+  {
+    "codIBGE": 2803005,
+    "municipio": "Itabaianinha",
+    "redePublica": 777,
+    "redePrivada": 66
+  },
+  {
+    "codIBGE": 2803104,
+    "municipio": "Itabi",
+    "redePublica": 57,
+    "redePrivada": 36
+  },
+  {
+    "codIBGE": 2803203,
+    "municipio": "Itaporanga d'Ajuda",
+    "redePublica": 407,
+    "redePrivada": 39
+  },
+  {
+    "codIBGE": 2803302,
+    "municipio": "Japaratuba",
+    "redePublica": 364,
+    "redePrivada": 42
+  },
+  {
+    "codIBGE": 2803401,
+    "municipio": "Japoatã",
+    "redePublica": 322,
+    "redePrivada": 10
+  },
+  {
+    "codIBGE": 2803500,
+    "municipio": "Lagarto",
+    "redePublica": 1613,
+    "redePrivada": 423
+  },
+  {
+    "codIBGE": 2803609,
+    "municipio": "Laranjeiras",
+    "redePublica": 841,
+    "redePrivada": 18
+  },
+  {
+    "codIBGE": 2803708,
+    "municipio": "Macambira",
+    "redePublica": 186,
+    "redePrivada": 26
+  },
+  {
+    "codIBGE": 2803807,
+    "municipio": "Malhada dos Bois",
+    "redePublica": 133,
+    "redePrivada": 0
+  },
+  {
+    "codIBGE": 2803906,
+    "municipio": "Malhador",
+    "redePublica": 284,
+    "redePrivada": 34
+  },
+  {
+    "codIBGE": 2804003,
+    "municipio": "Maruim",
+    "redePublica": 167,
+    "redePrivada": 80
+  },
+  {
+    "codIBGE": 2804102,
+    "municipio": "Moita Bonita",
+    "redePublica": 193,
+    "redePrivada": 44
+  },
+  {
+    "codIBGE": 2804201,
+    "municipio": "Monte Alegre de Sergipe",
+    "redePublica": 67,
+    "redePrivada": 19
+  },
+  {
+    "codIBGE": 2804300,
+    "municipio": "Muribeca",
+    "redePublica": 131,
+    "redePrivada": 49
+  },
+  {
+    "codIBGE": 2804409,
+    "municipio": "Neópolis",
+    "redePublica": 223,
+    "redePrivada": 105
+  },
+  {
+    "codIBGE": 2804458,
+    "municipio": "Nossa Senhora Aparecida",
+    "redePublica": 123,
+    "redePrivada": 26
+  },
+  {
+    "codIBGE": 2804508,
+    "municipio": "Nossa Senhora da Glória",
+    "redePublica": 573,
+    "redePrivada": 186
+  },
+  {
+    "codIBGE": 2804607,
+    "municipio": "Nossa Senhora das Dores",
+    "redePublica": 438,
+    "redePrivada": 13
+  },
+  {
+    "codIBGE": 2804706,
+    "municipio": "Nossa Senhora de Lourdes",
+    "redePublica": 0,
+    "redePrivada": 10
+  },
+  {
+    "codIBGE": 2804805,
+    "municipio": "Nossa Senhora do Socorro",
+    "redePublica": 1686,
+    "redePrivada": 747
+  },
+  {
+    "codIBGE": 2804904,
+    "municipio": "Pacatuba",
+    "redePublica": 217,
+    "redePrivada": 0
+  },
+  {
+    "codIBGE": 2805000,
+    "municipio": "Pedra Mole",
+    "redePublica": 40,
+    "redePrivada": 0
+  },
+  {
+    "codIBGE": 2805109,
+    "municipio": "Pedrinhas",
+    "redePublica": 241,
+    "redePrivada": 37
+  },
+  {
+    "codIBGE": 2805208,
+    "municipio": "Pinhão",
+    "redePublica": 135,
+    "redePrivada": 5
+  },
+  {
+    "codIBGE": 2805307,
+    "municipio": "Pirambu",
+    "redePublica": 204,
+    "redePrivada": 19
+  },
+  {
+    "codIBGE": 2805406,
+    "municipio": "Poço Redondo",
+    "redePublica": 158,
+    "redePrivada": 0
+  },
+  {
+    "codIBGE": 2805505,
+    "municipio": "Poço Verde",
+    "redePublica": 299,
+    "redePrivada": 79
+  },
+  {
+    "codIBGE": 2805604,
+    "municipio": "Porto da Folha",
+    "redePublica": 146,
+    "redePrivada": 48
+  },
+  {
+    "codIBGE": 2805703,
+    "municipio": "Propriá",
+    "redePublica": 150,
+    "redePrivada": 371
+  },
+  {
+    "codIBGE": 2805802,
+    "municipio": "Riachão do Dantas",
+    "redePublica": 274,
+    "redePrivada": 8
+  },
+  {
+    "codIBGE": 2805901,
+    "municipio": "Riachuelo",
+    "redePublica": 240,
+    "redePrivada": 46
+  },
+  {
+    "codIBGE": 2806008,
+    "municipio": "Ribeirópolis",
+    "redePublica": 294,
+    "redePrivada": 98
+  },
+  {
+    "codIBGE": 2806107,
+    "municipio": "Rosário do Catete",
+    "redePublica": 276,
+    "redePrivada": 42
+  },
+  {
+    "codIBGE": 2806206,
+    "municipio": "Salgado",
+    "redePublica": 208,
+    "redePrivada": 113
+  },
+  {
+    "codIBGE": 2806305,
+    "municipio": "Santa Luzia do Itanhy",
+    "redePublica": 552,
+    "redePrivada": 0
+  },
+  {
+    "codIBGE": 2806503,
+    "municipio": "Santa Rosa de Lima",
+    "redePublica": 106,
+    "redePrivada": 0
+  },
+  {
+    "codIBGE": 2806404,
+    "municipio": "Santana do São Francisco",
+    "redePublica": 216,
+    "redePrivada": 9
+  },
+  {
+    "codIBGE": 2806602,
+    "municipio": "Santo Amaro das Brotas",
+    "redePublica": 140,
+    "redePrivada": 36
+  },
+  {
+    "codIBGE": 2806701,
+    "municipio": "São Cristóvão",
+    "redePublica": 672,
+    "redePrivada": 349
+  },
+  {
+    "codIBGE": 2806800,
+    "municipio": "São Domingos",
+    "redePublica": 246,
+    "redePrivada": 37
+  },
+  {
+    "codIBGE": 2806909,
+    "municipio": "São Francisco",
+    "redePublica": 77,
+    "redePrivada": 0
+  },
+  {
+    "codIBGE": 2807006,
+    "municipio": "São Miguel do Aleixo",
+    "redePublica": 46,
+    "redePrivada": 0
+  },
+  {
+    "codIBGE": 2807105,
+    "municipio": "Simão Dias",
+    "redePublica": 716,
+    "redePrivada": 132
+  },
+  {
+    "codIBGE": 2807204,
+    "municipio": "Siriri",
+    "redePublica": 172,
+    "redePrivada": 0
+  },
+  {
+    "codIBGE": 2807303,
+    "municipio": "Telha",
+    "redePublica": 83,
+    "redePrivada": 0
+  },
+  {
+    "codIBGE": 2807402,
+    "municipio": "Tobias Barreto",
+    "redePublica": 684,
+    "redePrivada": 266
+  },
+  {
+    "codIBGE": 2807501,
+    "municipio": "Tomar do Geru",
+    "redePublica": 176,
+    "redePrivada": 64
+  },
+  {
+    "codIBGE": 2807600,
+    "municipio": "Umbaúba",
+    "redePublica": 466,
+    "redePrivada": 96
+  }
+]
