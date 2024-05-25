@@ -1,15 +1,5 @@
+const xlsx = require('xlsx')
 const fs = require('fs')
-
-const readJson = (filename) => {
-    return JSON.parse(fs.readFileSync(`json/${filename}.json`, 'utf8'))
-}
-
-const saveJson = (filename, jsonData) => {
-    const fileDir = 'json/'
-    if (!fs.existsSync(fileDir))
-        fs.mkdirSync(fileDir)
-    fs.writeFile(`${fileDir}/${filename}.json`, JSON.stringify(jsonData, null, 2), e => { if (e) console.log(e) })
-}
 
 const dataType = {
     SINASC: 0,
@@ -25,6 +15,32 @@ const request = async (_dataType, params) => {
     )
     const response = await fetch(url)
     return await response.json()
+}
+
+const readJson = (filename) => {
+    return JSON.parse(fs.readFileSync(`json/${filename}.json`, 'utf8'))
+}
+
+const saveJson = (filename, jsonData) => {
+    const fileDir = 'json/'
+    if (!fs.existsSync(fileDir))
+        fs.mkdirSync(fileDir)
+    fs.writeFile(`${fileDir}/${filename}.json`, JSON.stringify(jsonData, null, 2), e => { if (e) console.log(e) })
+}
+
+const xlsxToJson = (filename) => {
+    console.log('# Carregando arquivo XLSX')
+    const workbook = xlsx.readFile(`xlsx/${filename}.xlsx`)
+    console.log('# Convertendo em JSON o arquivo XLSX')
+    return xlsx.utils.sheet_to_json(workbook.Sheets[workbook.SheetNames[11]], {header: 1})
+}
+
+const saveXlsx = (filename, dataframe) => {
+    const workbook = xlsx.utils.book_new()
+    const sheetName = "Fora da Creche"
+    workbook.SheetNames.push(sheetName)
+    workbook.Sheets[sheetName] = xlsx.utils.aoa_to_sheet(dataframe)
+    xlsx.writeFile(workbook, `xlsx/${filename}.xlsx`)
 }
 
 const shortMonthStr = (_date) => {
@@ -63,6 +79,6 @@ const createDateArray = (year, month, day) => {
 }
 
 module.exports = {
-    readJson, saveJson, dataType,  regionCodes, request,
-    createYearsArray, createMonthsArray, createDateArray
+    dataType,  regionCodes, request, readJson, saveJson, xlsxToJson,
+    saveXlsx, createYearsArray, createMonthsArray, createDateArray
 }

@@ -1,10 +1,6 @@
-const xlsx = require('xlsx')
 const util = require('./util.js')
 
-console.log('# Carregando arquivo XLSX')
-const workbook = xlsx.readFile('xlsx/matriculas.xlsx')
-console.log('# Convertendo em JSON o arquivo XLSX')
-const worksheet = xlsx.utils.sheet_to_json(workbook.Sheets[workbook.SheetNames[11]], {header: 1})
+const worksheet = util.xlsxToJson('matriculas')
 console.log('# Filtrando dados dos municípios de Sergipe')
 const sergipe_tmp_data = worksheet.filter(m => m.length == 15 && m[1] == 'Sergipe ' && m[2] != '  ')
 console.log('# Compilando informações dos municípios')

@@ -1,294 +1,294 @@
 [
   {
     "municipio": "Aquidabã",
-    "nascimentos": 696
+    "nascimentos": 1268
   },
   {
     "municipio": "Aracaju",
-    "nascimentos": 30154
+    "nascimentos": 51628
   },
   {
     "municipio": "Arauá",
-    "nascimentos": 592
+    "nascimentos": 992
   },
   {
     "municipio": "Areia Branca",
-    "nascimentos": 312
+    "nascimentos": 547
   },
   {
     "municipio": "Barra dos Coqueiros",
-    "nascimentos": 1183
+    "nascimentos": 2112
   },
   {
     "municipio": "Boquim",
-    "nascimentos": 887
+    "nascimentos": 1601
   },
   {
     "municipio": "Brejo Grande",
-    "nascimentos": 249
+    "nascimentos": 359
   },
   {
     "municipio": "Campo do Brito",
-    "nascimentos": 677
+    "nascimentos": 861
   },
   {
     "municipio": "Canhoba",
-    "nascimentos": 206
+    "nascimentos": 314
   },
   {
     "municipio": "Canindé de São Francisco",
-    "nascimentos": 1647
+    "nascimentos": 2397
   },
   {
     "municipio": "Capela",
-    "nascimentos": 1502
+    "nascimentos": 2436
   },
   {
     "municipio": "Carira",
-    "nascimentos": 601
+    "nascimentos": 996
   },
   {
     "municipio": "Carmopolis",
-    "nascimentos": 628
-  },
-  {
-    "municipio": "Cedro de São João",
-    "nascimentos": 392
-  },
-  {
-    "municipio": "Cristinápolis",
-    "nascimentos": 833
-  },
-  {
-    "municipio": "Cumbe",
-    "nascimentos": 58
-  },
-  {
-    "municipio": "Divina Pastora",
-    "nascimentos": 124
-  },
-  {
-    "municipio": "Estância",
-    "nascimentos": 3299
-  },
-  {
-    "municipio": "Feira Nova",
-    "nascimentos": 155
-  },
-  {
-    "municipio": "Frei Paulo",
-    "nascimentos": 633
-  },
-  {
-    "municipio": "Gararu",
-    "nascimentos": 549
-  },
-  {
-    "municipio": "General Maynard",
-    "nascimentos": 100
-  },
-  {
-    "municipio": "Graccho Cardoso",
-    "nascimentos": 227
-  },
-  {
-    "municipio": "Ilha das Flores",
-    "nascimentos": 45
-  },
-  {
-    "municipio": "Indiaroba",
     "nascimentos": 1042
   },
   {
+    "municipio": "Cedro de São João",
+    "nascimentos": 764
+  },
+  {
+    "municipio": "Cristinápolis",
+    "nascimentos": 1324
+  },
+  {
+    "municipio": "Cumbe",
+    "nascimentos": 97
+  },
+  {
+    "municipio": "Divina Pastora",
+    "nascimentos": 185
+  },
+  {
+    "municipio": "Estância",
+    "nascimentos": 5901
+  },
+  {
+    "municipio": "Feira Nova",
+    "nascimentos": 228
+  },
+  {
+    "municipio": "Frei Paulo",
+    "nascimentos": 1092
+  },
+  {
+    "municipio": "Gararu",
+    "nascimentos": 1023
+  },
+  {
+    "municipio": "General Maynard",
+    "nascimentos": 179
+  },
+  {
+    "municipio": "Graccho Cardoso",
+    "nascimentos": 377
+  },
+  {
+    "municipio": "Ilha das Flores",
+    "nascimentos": 61
+  },
+  {
+    "municipio": "Indiaroba",
+    "nascimentos": 1545
+  },
+  {
     "municipio": "Itabaiana",
-    "nascimentos": 4224
+    "nascimentos": 7362
   },
   {
     "municipio": "Itabaianinha",
-    "nascimentos": 1676
+    "nascimentos": 2660
   },
   {
     "municipio": "Itabi",
-    "nascimentos": 170
+    "nascimentos": 286
   },
   {
     "municipio": "Itaporanga D'ajuda",
-    "nascimentos": 1417
+    "nascimentos": 2352
   },
   {
     "municipio": "Japaratuba",
-    "nascimentos": 574
+    "nascimentos": 999
   },
   {
     "municipio": "Japoatã",
-    "nascimentos": 630
+    "nascimentos": 1109
   },
   {
     "municipio": "Lagarto",
-    "nascimentos": 4199
+    "nascimentos": 7419
   },
   {
     "municipio": "Laranjeiras",
-    "nascimentos": 1493
+    "nascimentos": 2359
   },
   {
     "municipio": "Macambira",
-    "nascimentos": 259
+    "nascimentos": 474
   },
   {
     "municipio": "Malhada dos Bois",
-    "nascimentos": 164
-  },
-  {
-    "municipio": "Malhador",
-    "nascimentos": 655
-  },
-  {
-    "municipio": "Maruim",
-    "nascimentos": 1211
-  },
-  {
-    "municipio": "Moita Bonita",
-    "nascimentos": 372
-  },
-  {
-    "municipio": "Monte Alegre de Sergipe",
-    "nascimentos": 733
-  },
-  {
-    "municipio": "Muribeca",
-    "nascimentos": 176
-  },
-  {
-    "municipio": "Neópolis",
-    "nascimentos": 937
-  },
-  {
-    "municipio": "Nossa Senhora Aparecida",
-    "nascimentos": 326
-  },
-  {
-    "municipio": "Nossa Senhora da Glória",
-    "nascimentos": 2026
-  },
-  {
-    "municipio": "Nossa Senhora das Dores",
-    "nascimentos": 1254
-  },
-  {
-    "municipio": "Nossa Senhora de Lourdes",
-    "nascimentos": 120
-  },
-  {
-    "municipio": "Nossa Senhora do Socorro",
-    "nascimentos": 4884
-  },
-  {
-    "municipio": "Pacatuba",
-    "nascimentos": 1041
-  },
-  {
-    "municipio": "Pedra Mole",
-    "nascimentos": 139
-  },
-  {
-    "municipio": "Pedrinhas",
-    "nascimentos": 193
-  },
-  {
-    "municipio": "Pinhão",
     "nascimentos": 225
   },
   {
+    "municipio": "Malhador",
+    "nascimentos": 1200
+  },
+  {
+    "municipio": "Maruim",
+    "nascimentos": 1834
+  },
+  {
+    "municipio": "Moita Bonita",
+    "nascimentos": 547
+  },
+  {
+    "municipio": "Monte Alegre de Sergipe",
+    "nascimentos": 1023
+  },
+  {
+    "municipio": "Muribeca",
+    "nascimentos": 252
+  },
+  {
+    "municipio": "Neópolis",
+    "nascimentos": 1644
+  },
+  {
+    "municipio": "Nossa Senhora Aparecida",
+    "nascimentos": 571
+  },
+  {
+    "municipio": "Nossa Senhora da Glória",
+    "nascimentos": 3351
+  },
+  {
+    "municipio": "Nossa Senhora das Dores",
+    "nascimentos": 2092
+  },
+  {
+    "municipio": "Nossa Senhora de Lourdes",
+    "nascimentos": 205
+  },
+  {
+    "municipio": "Nossa Senhora do Socorro",
+    "nascimentos": 9477
+  },
+  {
+    "municipio": "Pacatuba",
+    "nascimentos": 1637
+  },
+  {
+    "municipio": "Pedra Mole",
+    "nascimentos": 208
+  },
+  {
+    "municipio": "Pedrinhas",
+    "nascimentos": 363
+  },
+  {
+    "municipio": "Pinhão",
+    "nascimentos": 398
+  },
+  {
     "municipio": "Pirambu",
-    "nascimentos": 376
+    "nascimentos": 573
   },
   {
     "municipio": "Porto da Folha",
-    "nascimentos": 1257
+    "nascimentos": 1976
   },
   {
     "municipio": "Poço Redondo",
-    "nascimentos": 1508
+    "nascimentos": 2060
   },
   {
     "municipio": "Poço Verde",
-    "nascimentos": 715
+    "nascimentos": 1215
   },
   {
     "municipio": "Propriá",
-    "nascimentos": 1279
+    "nascimentos": 2280
   },
   {
     "municipio": "Riachuelo",
-    "nascimentos": 451
+    "nascimentos": 741
   },
   {
     "municipio": "Riachão do Dantas",
-    "nascimentos": 651
+    "nascimentos": 1146
   },
   {
     "municipio": "Ribeirópolis",
-    "nascimentos": 523
+    "nascimentos": 1038
   },
   {
     "municipio": "Rosario do Catete",
-    "nascimentos": 447
+    "nascimentos": 748
   },
   {
     "municipio": "Salgado",
-    "nascimentos": 715
+    "nascimentos": 1322
   },
   {
     "municipio": "Santa Luzia do Itanhy",
-    "nascimentos": 289
+    "nascimentos": 434
   },
   {
     "municipio": "Santa Rosa de Lima",
-    "nascimentos": 169
+    "nascimentos": 249
   },
   {
     "municipio": "Santana do São Francisco",
-    "nascimentos": 157
+    "nascimentos": 260
   },
   {
     "municipio": "Santo Amaro das Brotas",
-    "nascimentos": 234
+    "nascimentos": 405
   },
   {
     "municipio": "Simão Dias",
-    "nascimentos": 1737
+    "nascimentos": 3009
   },
   {
     "municipio": "Siriri",
-    "nascimentos": 149
+    "nascimentos": 251
   },
   {
     "municipio": "São Cristóvão",
-    "nascimentos": 2250
+    "nascimentos": 4062
   },
   {
     "municipio": "São Domingos",
-    "nascimentos": 369
+    "nascimentos": 697
   },
   {
     "municipio": "São Miguel do Aleixo",
-    "nascimentos": 118
+    "nascimentos": 214
   },
   {
     "municipio": "Telha",
-    "nascimentos": 93
+    "nascimentos": 180
   },
   {
     "municipio": "Tobias Barreto",
-    "nascimentos": 1999
+    "nascimentos": 3660
   },
   {
     "municipio": "Tomar do Geru",
-    "nascimentos": 446
+    "nascimentos": 488
   },
   {
     "municipio": "Umbaúba",
-    "nascimentos": 1141
+    "nascimentos": 1777
   }
 ]
