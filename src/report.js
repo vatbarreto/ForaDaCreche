@@ -1,18 +1,37 @@
 const util = require('./util.js')
 
 console.log('# Carregando nascimentos.json')
-const nascimentos = util.readJson('sinasc')
+const baseNasc = process.argv[2]
+const nascimentos = util.readJson(baseNasc)
 console.log('# Carregando matriculas.json')
 const matriculas = util.readJson('matriculas')
 
 const totalNascimentos = nascimentos.reduce((t, n) => t + n.nascimentos, 0)
-let report = nascimentos
-    .map(n => Object.assign(n, matriculas.find(m => m.municipio === n.municipio)))
+let report = matriculas
+    .map(m => {
+        const n = nascimentos.find(_n => _n.municipio === m.municipio)
+        return {
+            'codIBGE': m.codIBGE,
+            'municipio': m.municipio,
+            'redePublica': m.redePublica,
+            'redePrivada': m.redePrivada,
+            'nascimentos': (n? n.nascimentos: null)
+        }
+    })
     .map(e => {
+        const nascimentos = e.nascimentos
         const foraDaCreche = e.nascimentos - (e.redePublica + e.redePrivada)
         const percForaDaCreche = parseFloat(((foraDaCreche / e.nascimentos) * 100).toFixed(2))
         const percRelativoForaDaCreche = parseFloat(((foraDaCreche / totalNascimentos) * 100).toFixed(2))
-        return [e.codIBGE, e.municipio, e.nascimentos, e.redePublica, e.redePrivada, foraDaCreche, percForaDaCreche, percRelativoForaDaCreche]
+        return [
+            e.codIBGE,
+            e.municipio,
+            (nascimentos? nascimentos: ''),
+            e.redePublica,
+            e.redePrivada,
+            (foraDaCreche? foraDaCreche: ''),
+            (percForaDaCreche? percForaDaCreche: ''),
+            (percRelativoForaDaCreche? percRelativoForaDaCreche: '')]
     })
 report = [
     [
