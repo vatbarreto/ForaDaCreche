@@ -17,7 +17,7 @@ if [[ "$nasc" == "1" ]]; then
 else
     node src/regcivil.js $ano $mes
 fi
-node src/matriculas.js
+node --max-old-space-size=8192 src/matriculas.js
 if [[ "$nasc" == "1" ]]; then
     node src/report.js "sinasc"
 else
