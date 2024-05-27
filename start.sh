@@ -18,4 +18,8 @@ else
     node src/regcivil.js $ano $mes
 fi
 node src/matriculas.js
-node src/report.js
+if [[ "$nasc" == "1" ]]; then
+    node src/report.js "sinasc"
+else
+    node src/report.js "regcivil"
+fi
