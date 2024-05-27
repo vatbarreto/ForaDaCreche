@@ -2,7 +2,7 @@ const xlsx = require('xlsx')
 const fs = require('fs')
 
 
-const jsonPath = '../json'
+const jsonPath = 'json'
 const xlsxPath = 'xlsx'
 const dataType = {
     SINASC: 0,
